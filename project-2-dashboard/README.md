@@ -1,24 +1,26 @@
-# 📊 Dashboard de Ventas y KPIs
+# 📊 Dashboard Financiero y Análisis de Negocio (Power BI)
 
 ## 📌 Contexto
-El objetivo de este proyecto es analizar el desempeño de ventas de una empresa para identificar tendencias, oportunidades de crecimiento y optimización del negocio.
+El objetivo del proyecto es analizar el desempeño financiero y operativo de una empresa mediante un dashboard interactivo, facilitando la toma de decisiones basada en datos.
 
 ## 🔍 Análisis
-Se trabajó con datos de ventas para:
-- Analizar ingresos por categoría y región
-- Evaluar tendencias en el tiempo
-- Identificar productos más vendidos
-- Medir indicadores clave (KPIs)
+Se trabajó con datos para:
+- Evaluar ingresos, costos y rentabilidad
+- Analizar tendencias en el tiempo
+- Identificar segmentos o categorías clave
+- Medir indicadores de desempeño (KPIs)
 
 ## 📈 Resultados
-- Identificación de las categorías con mayor contribución a ingresos
-- Detección de tendencias de crecimiento/caída en ventas
-- Identificación de productos clave para la rentabilidad
+- Identificación de las principales fuentes de ingresos
+- Detección de oportunidades de mejora en rentabilidad
+- Visualización clara de tendencias y desempeño del negocio
 
 ## 🛠️ Herramientas
-- Excel / Power BI
+- Power BI
+- DAX
+- Power Query
 - Data Visualization
-- KPIs
 
 ## 📷 Dashboard
-(Aquí irá la imagen)
+
+![Dashboard](dashboard.png)
