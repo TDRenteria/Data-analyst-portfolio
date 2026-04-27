@@ -26,8 +26,8 @@ Análisis interactivo de KPIs financieros y desempeño del negocio mediante Powe
 
 ---
 
-### 3. Análisis de Datos con Python
-Limpieza, transformación y visualización de datos usando pandas.
+### 3. Análisis de Movilidad y Economía (Python)
+Análisis exploratorio de datos para identificar patrones y tendencias en indicadores urbanos y económicos.
 
 👉 [Ver proyecto](./project-3-python)
 
