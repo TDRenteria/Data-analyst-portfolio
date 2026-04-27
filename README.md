@@ -1,6 +1,6 @@
 # 👋Tito Daniel Rentería – Data Analyst Portfolio
 
-Data Analyst Junior con enfoque en análisis financiero, SQL, Python y visualización de datos. Experiencia en negocio real (hotelería, distribución y banca), aplicando datos para la toma de decisiones.
+Data Analyst Junior con enfoque en análisis financiero y de negocio, utilizando SQL, Power BI, Python y visualización de datos, para generar insights y apoyar la toma de decisiones. Experiencia en negocio real (hotelería, distribución y banca), aplicando datos para la toma de decisiones.
 
 ## 🔧 Skills
 - SQL
