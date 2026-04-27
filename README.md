@@ -19,8 +19,8 @@ Análisis de mercados internacionales utilizando SQL para evaluar ingresos, cost
 
 ---
 
-### 2. Dashboard de Ventas (Walmart)
-Dashboard interactivo con KPIs y visualización de datos para toma de decisiones.
+### 2. Dashboard Financiero (Power BI)
+Análisis interactivo de KPIs financieros y desempeño del negocio mediante Power BI.
 
 👉 [Ver proyecto](./project-2-dashboard)
 
