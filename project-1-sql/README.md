@@ -18,6 +18,6 @@ Se utilizaron consultas SQL para:
 - SQL
 
 ## 📷 Visuales
-[Resultado](dashboard.jpg)
+![Resultado](dashboard.png)
 
 
