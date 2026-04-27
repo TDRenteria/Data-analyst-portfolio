@@ -25,3 +25,4 @@ Se utilizó Python para:
 
 ![Gráfico 1](grafico1.png)
 ![Gráfico 2](grafico2.png)
+![Gráfico 3](grafico3.png)
