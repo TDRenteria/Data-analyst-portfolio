@@ -18,4 +18,5 @@ Se utilizaron consultas SQL para:
 - SQL
 
 ## 📷 Visuales
-(Aquí luego subimos imágenes)
+![Resultado](Proyecto 3_ Análisis del desempeño financiero con SQL - Resumen ejecutivo - TripleTen_page-0001)
+
